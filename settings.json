@@ -1,0 +1,41 @@
+{
+    "app_name": "Yolov5-7.0自动标注 - 我是指针*",
+    "copyright": "By: 我是指针*",
+    "custom_title_bar": true,
+    "font": {
+        "family": "Segoe UI",
+        "text_size": 9,
+        "title_size": 10
+    },
+    "images_path": "D:/项目/Python项目/Yolov5自动标注/images",
+    "labels": "",
+    "labels_path": "D:/项目/Python项目/Yolov5自动标注/images/classes.txt",
+    "lef_menu_size": {
+        "maximum": 240,
+        "minimum": 50
+    },
+    "left_column_size": {
+        "maximum": 240,
+        "minimum": 0
+    },
+    "left_menu_content_margins": 3,
+    "minimum_size": [
+        640,
+        730
+    ],
+    "model_path": "D:/项目/Python项目/Yolov5自动标注/models/aim_cf.pt",
+    "right_column_size": {
+        "maximum": 240,
+        "minimum": 0
+    },
+    "startup_size": [
+        640,
+        730
+    ],
+    "theme_name": "default",
+    "time_animation": 500,
+    "version": "v1.0.01",
+    "voc_path": "D:/项目/Python项目/Yolov5自动标注/images",
+    "yaml_path": "D:/项目/Python项目/Yolov5自动标注/data/coco128.yaml",
+    "year": 2023
+}
